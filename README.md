@@ -1,5 +1,5 @@
 # jamme_zone
-Este é o repo do meu e-commerce
+Este é o repositório meu e-commerce jamme_zone
 
 Seguem as recomendações para utilização do projeto:
 
