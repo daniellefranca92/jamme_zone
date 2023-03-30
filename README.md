@@ -13,7 +13,9 @@ Uso do git:
 	git clone https://github.com/daniellefranca92/jamme_zone.git
 
 2 - Gravar alterações
+
     git add *
+	
 	git commit -m "Alteração realizada no ambito da User Story XXX"
 
 3 - Upload das alterações
@@ -31,9 +33,11 @@ Uso do git:
     git checkout master
 
 6 - Cancelar o ultimo commit
+
     git stash
 
 7 - Criar um nova versão
+
     git checkout -b V2.0
 
 
