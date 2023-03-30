@@ -6,11 +6,13 @@ Seguem as recomendações para utilização do projeto:
 Na pasta front-end estão os arquivos html e css do nosso projeto e na pasta microservicos estão os requisitos fucionais para a utilização da nossa API.
 
 
-Relativo ao git:
+Uso do git:
+
 1 - Iniciar o desenvolvimento:
     - git clone https://github.com/daniellefranca92/jamme_zone.git
 
 2 - Gravar alterações
+    - git add *
     - git commit -m "Alteração realizada no ambito da User Story XXX"
 
 3 - Upload das alterações
@@ -28,3 +30,5 @@ Relativo ao git:
 
 7 - Criar um nova versão
     - git checkout -b V2.0
+
+
